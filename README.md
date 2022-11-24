@@ -122,8 +122,8 @@ Using C++ templates? (1p)
 Using C++ try-catch? (1p)
 Using C++ inheritance? (1p)
 
+```
 *** Less than 50 is IG ***
 *** Anything between 50 and 60 is G ***
 *** A total >= 61 p is VG ***
-```
 
